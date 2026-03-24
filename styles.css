@@ -3,6 +3,11 @@ body {
   background-color: black;
   text-align: center;
   padding-top:12px;
+  background-image: url(https://uploads.onecompiler.io/44hawqnsf/44hawnmmh/pxbee_2026-03-24_14-35-07.jpeg);
+  background-size: cover;
+  background-size: 170%;
+
+  
 }
 .search {
   position: fixed;
