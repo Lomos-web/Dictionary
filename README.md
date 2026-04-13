@@ -4,4 +4,5 @@ Super simple dictionary software using DictionaryAPI.dev, i could not make it wi
 -index.html - For layout and data
 -style.css - For styles
 -script.js -For Searching
--CNAME - For Domain
+-Background.png -Wallpaper
+-favicon.ico -Webpage Favicon
